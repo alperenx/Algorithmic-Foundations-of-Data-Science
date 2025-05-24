@@ -1,5 +1,5 @@
-This repo contains open source material for Algorithmic Foundations of Data Science.
-The lecture plans is as follows:
+This repo contains open source material for Algorithmic Foundations of Data Science. \\
+The lecture plans is as follows: \\
 1-) Linear Algebra + Linear Algorithms -- QR, Cholesky, PCA, Linear Regression -- 
 2-) Numerical Analysis, Conditioning, Stability
 3-) Basics of Probability, Cross-Entropy distance, Naive Bayes Classifier, Logistic Regression
