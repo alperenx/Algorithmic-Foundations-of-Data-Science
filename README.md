@@ -3,12 +3,12 @@ This repo contains open source material for Algorithmic Foundations of Data Scie
 We thank the Robbins Family for their support!  https://www.utsa.edu/endowed/profiles/kay-and-steve-robbins-faculty-teaching-fellowship-computer-science.html
 
 
-Our main textbook was Kevi Muprhy's Into to Probabilistic ML:  https://probml.github.io/pml-book/book1.html
+Our main textbook was Kevin Muprhy's Into to Probabilistic ML:  https://probml.github.io/pml-book/book1.html
 
 This was complemented with my own notes for numerical analysis, optimization,  JL Lemma, Concentration Inequalities, Sketching.
 
 
-The lecture plans is as follows: 
+The lecture plan is as follows: 
 
 1-) Linear Algebra + Linear Algorithms -- QR, Cholesky, PCA, Linear Regression -- 
 
@@ -49,11 +49,11 @@ The lecture plans is as follows:
 We also had industry speakers on:  (1) Causal Inference, (2) Time-Series Analysis, (3) Reinforcement Learning, (4) Generative AI, (5) Recommendation and Search
 
 
-Any feedback on lecture plans is welcome.
+Any feedback on the lecture plan is welcome.
 
 
-Some of the lectures are available here in the repo, and some others are planned to be available in future.
-I did not have time scrutinize the notes, so take it with your own risk.
+Some of the lecture notes are available here in the repo, and some others are planned to be available in future.
+I did not have time to scrutinize the notes yet, so take it with your own risk.
 
 We have wonderful notebooks prepped by Farhan Tajwar Romit on  Matrix decompositions, PCA, PPCA,  Linear Regression, Logistic Regression,  Basics of Neural Nets - Backprop (after Karpathy).
 
