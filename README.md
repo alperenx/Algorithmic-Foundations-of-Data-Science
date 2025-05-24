@@ -38,6 +38,9 @@ The lecture plans is as follows:
 
 18-) Trees, Forests, Bagging, Boosting
 
+We also had industry speakers on:  (1) Causal Inference, (2) Time-Series Analysis, (3) Reinforcement Learning, (4) Generative AI, (5) Recommendation and Search
+
+
 Any feedback on lecture plans is welcome.
 
 
