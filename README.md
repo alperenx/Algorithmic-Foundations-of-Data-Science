@@ -1,5 +1,7 @@
 This repo contains open source material for Algorithmic Foundations of Data Science.
 
+We thank the Robbins Family for their support!  https://www.utsa.edu/endowed/profiles/kay-and-steve-robbins-faculty-teaching-fellowship-computer-science.html
+
 The lecture plans is as follows: 
 
 1-) Linear Algebra + Linear Algorithms -- QR, Cholesky, PCA, Linear Regression -- 
