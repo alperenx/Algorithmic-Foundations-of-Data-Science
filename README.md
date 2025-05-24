@@ -5,7 +5,7 @@ We thank the Robbins Family for their support!  https://www.utsa.edu/endowed/pro
 
 Our main textbook was Kevin Muprhy's Into to Probabilistic ML:  https://probml.github.io/pml-book/book1.html
 
-This was complemented with my own notes for numerical analysis, optimization,  JL Lemma, Concentration Inequalities, Sketching.
+This was complemented with my own notes for numerical analysis, optimization,  JL Lemma, Concentration Inequalities, Streaming, and Sketching.
 
 
 The lecture plan is as follows: 
