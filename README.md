@@ -59,5 +59,5 @@ We have wonderful notebooks prepped by Farhan Tajwar Romit on  Matrix decomposit
 
 Planned notebooks for future are: Why momentum works? and XGBoost/CatBoost.
 
-Lecture recordings will be available at https://www.youtube.com/watch?v=ME2n1WertBs&list=PLTgfuKRICqV9fYPB8ifXDnfVgv4MI9NrI
+Lecture recordings are available at https://www.youtube.com/watch?v=ME2n1WertBs&list=PLTgfuKRICqV9fYPB8ifXDnfVgv4MI9NrI
 
