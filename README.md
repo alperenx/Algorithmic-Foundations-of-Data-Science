@@ -24,9 +24,9 @@ The lecture plan is as follows:
 
 7-) Convolutional NNets
 
-8-) NNets with memory: RNN, LTSM, Transformers, SSM
+8-) NNets with memory: RNN, LSTM, Transformers, SSM
 
-9-) Conexity Basics and Gradient Descent
+9-) Convexity Basics and Gradient Descent
 
 10-) Stochastic, Accelerated, and Preconditioned Gradient Descent --- AdaGrad, Ada-Delta, RMSProp, ADAM --
 
